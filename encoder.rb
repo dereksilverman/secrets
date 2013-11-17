@@ -9,7 +9,7 @@ def secret_message
 	# step2_string = step1_string.reverse
 end
 
-
+puts secret_message
 
 #Ashley's Code 
 # replace the spaces with the last letter of the secret
